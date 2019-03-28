@@ -1,0 +1,7 @@
+C:\Users\Debashis\source\repos\LargestNumber\LargestNumber\bin\Debug\LargestNumber.exe.config
+C:\Users\Debashis\source\repos\LargestNumber\LargestNumber\bin\Debug\LargestNumber.exe
+C:\Users\Debashis\source\repos\LargestNumber\LargestNumber\bin\Debug\LargestNumber.pdb
+C:\Users\Debashis\source\repos\LargestNumber\LargestNumber\obj\Debug\LargestNumber.csprojAssemblyReference.cache
+C:\Users\Debashis\source\repos\LargestNumber\LargestNumber\obj\Debug\LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Debashis\source\repos\LargestNumber\LargestNumber\obj\Debug\LargestNumber.exe
+C:\Users\Debashis\source\repos\LargestNumber\LargestNumber\obj\Debug\LargestNumber.pdb
